@@ -13,8 +13,8 @@
 
 [![](https://img.shields.io/badge/made%20by-ThiagoGualberto-%237159C1)](https://www.linkedin.com/in/thiagogualberto84/)
 [![](https://img.shields.io/badge/node.js@lts-12.14.1-informational?logo=Node.JS)](https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1)
-![](https://img.shields.io/github/repo-size/thiagogualberto/gobarber-api.svg)
-[![](https://img.shields.io/github/last-commit/thiagogualberto/gobarber-api.svg?color=red)](https://github.com/thiagogualberto/gobarber-api/commits/master)
+![](https://img.shields.io/github/repo-size/thiagogualberto/prova-node-09-12-20.svg)
+[![](https://img.shields.io/github/last-commit/thiagogualberto/prova-node-09-12-20.svg?color=red)](https://github.com/thiagogualberto/prova-node-09-12-20/commits/master)
 </br></br>
 
 <p id="insomniaButton" align="center">
@@ -32,7 +32,7 @@
 
 # :man_technologist: Project
 
-Este projeto é uma melhoria do projeto inicial de cadastro de usuários de maneira a avaliar minhas habilidades e competências.
+This project is an improvement on the initial user registration project in order to assess my skills and competences.
 </br></br>
 
 # :rocket: Getting Started
@@ -43,7 +43,7 @@ To clone and run this api, you'll need Git, Node.js v12.14 or higher + Typescrip
 The first thing you need to do is to run these container on your machine:</br>
 
 ```bash
-# Create a container in 'postgres' with the name of 'database'
+# Create a container in 'postgres' with the name of 'helpper_postgres'
 $ docker run --name helpper_postgres -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres
 ```
 
