@@ -18,7 +18,7 @@
 </br></br>
 
 <p id="insomniaButton" align="center">
-    <a href="https://insomnia.rest/run/?label=GoBarber%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fthiagogualberto%2Fgobarber-api%2Fmaster%2FInsomnia_GoBarber.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+    <a href="https://insomnia.rest/run/?label=User%20API%20-%20Helpper&uri=https%3A%2F%2Fgithub.com%2Fthiagogualberto%2Fprova-node-09-12-20%2Fblob%2Fmaster%2FInsomnia_Helpper.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 <p align="center">
